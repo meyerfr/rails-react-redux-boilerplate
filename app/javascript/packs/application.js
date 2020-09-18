@@ -27,6 +27,7 @@ console.log('Hello World from Webpacker')
 import "bootstrap";
 
 // Internal imports, e.g:
+// import '../react-redux-app';
 // import { initSelect2 } from '../components/init_select2';
 
 document.addEventListener('turbolinks:load', () => {
